@@ -1,0 +1,24 @@
+/* Globales */
+
+body {
+    font-family: 'Roboto';
+}
+
+p {
+    font-weight: 300;
+}
+
+h4,
+h5 {
+    font-weight: 400;
+}
+
+.precio {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #28A745;
+}
+
+.fondo {
+    background-color: #28A745;
+}
